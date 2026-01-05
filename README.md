@@ -215,7 +215,7 @@ Before deploying to production:
 
 ## Learn More
 
-- [Sendly Documentation](https://docs.sendly.live)
+- [Sendly Documentation](https://sendly.live/docs)
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Next.js App Router](https://nextjs.org/docs/app)
 
