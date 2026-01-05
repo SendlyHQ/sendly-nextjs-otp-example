@@ -1,3 +1,8 @@
+<p align="center">
+  <img src=".github/header.svg" alt="Sendly Node.js OTP Example" />
+</p>
+
+
 # Sendly Next.js OTP Verification Example
 
 A complete example application demonstrating phone number verification with OTP (One-Time Password) using Sendly's verification API in a Next.js application.
@@ -20,7 +25,7 @@ A complete example application demonstrating phone number verification with OTP 
 
 ## Getting Your Sendly API Key
 
-1. Sign up for a Sendly account at [https://sendly.so](https://sendly.so)
+1. Sign up for a Sendly account at [https://sendly.live](https://sendly.live)
 2. Navigate to your dashboard
 3. Go to Settings > API Keys
 4. Copy your API key
@@ -210,7 +215,7 @@ Before deploying to production:
 
 ## Learn More
 
-- [Sendly Documentation](https://docs.sendly.so)
+- [Sendly Documentation](https://docs.sendly.live)
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Next.js App Router](https://nextjs.org/docs/app)
 
